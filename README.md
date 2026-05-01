@@ -39,7 +39,8 @@ FinAlgoritmo
 ***
 **3. Diagramas de flujo**
 - Emplea formas para la representación visual del algoritmo. **Ejemplo**
-[]
+![Imagen]()
+
  
 
 
