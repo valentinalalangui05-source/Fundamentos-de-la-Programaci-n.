@@ -1,3 +1,7 @@
-# **Fundamentos de la programacion.**
-## **Unidad 1**
+# **FUNDAMENTOS DE LA PROGRAMACION.**
+## **UNIDAD 1**
+## CONTENIDOS 
+1. **Algoritmo**
+   
+
 
