@@ -34,7 +34,7 @@
   - 🔤*Cadenas*: También conocidos como alfanuméricos, la formación de muchos caracteres forma una cadena
   - 🧐*Lógicos*: Determina si algo es verdadero o falso
 
-- **Pseudocodigo:**
+- **Pseudocódigo:**
   - Es utilizado para entender la estructura de un código. Se caracteriza por utilizar una sintaxis flexible y un lenguaje cercano al natural. Entre las herramientas mas utlizadas para este propósito podemos mencionar a [Pseint](https://pseint.sourceforge.net/).
 
 - **Diagramas de flujo:**
@@ -52,7 +52,7 @@
     - *Lenguajes interpretados:*
       Ejecuta el código línea por línea en tiempo real, por ejemplo: Python, JavaScrip, etc.
 ***
-**2. PROGRAMACION POR BLOQUES**
+**2. PROGRAMACIÓN POR BLOQUES**
 - Es un método utilizado para desarrollar la lógica de programación, se caracteriza por utilizar piezas visules. Analogicamente, es como armar un rompecabezas. Entre las herramientas más utlizadas para este propósito podemos mencionar a [pilas bloques](https://pilasbloques.program.ar/online/#/)
 
 ![Programacion por bloques](https://github.com/valentinalalangui05-source/Fundamentos-de-la-Programaci-n./blob/main/Programacion%20por%20bloques.png?raw=true.png)
@@ -65,7 +65,7 @@
 **1. Planteamiento del problema:**
 - En una concesionaria de vehículos se realizaron tres ventas de vehículos de alta gama a 3 clientes. Cada vehículo cuesta 30000, 29000 y 33000 usd. El gerente desea saber cuál es porcentaje (comisión) que cada vendedor se llevaría, lo que le pagará a cada uno de ellos (considerando el 4% por cada vendedor) y lo que le pagará en conjunto (total).
 
-**2. Analisis del problema:**
+**2. Análisis del problema:**
 - Datos de entrada:
   - Este ejercicio no tiene datos de entrada, ya que nos dan las variables con un valor asignado.
 
@@ -79,13 +79,13 @@
 
   **ct** = c1 + c2 + c3;
 
-   - *Donde **c** es comison, y **v** es vehiculo*
+   - *Donde **c** es comisón, y **v** es vehiculo*
 
 - Datos de salida:
-  - comision total(ct)
+  - comisión total(ct)
 
-**3. Diseño del algoritmo: Diagrama de flujo y Pseudocodigo**
-- Pseudocodigo:
+**3. Diseño del algoritmo: Diagrama de flujo y Pseudocódigo**
+- Pseudocódigo:
 ~~~
 Algoritmo Ventas
 	
@@ -119,7 +119,7 @@ FinAlgoritmo
   
 ![Imagen](https://github.com/valentinalalangui05-source/Fundamentos-de-la-Programaci-n./blob/main/Ejercicio_Diagrama%20de%20flujo.png?raw=true)
 
-**4. Codificacion: Código fuente**
+**4. Codificación: Código fuente**
 ~~~
 #include <stdio.h>
 int main(){
@@ -153,14 +153,14 @@ int main(){
 |30000 * (0.04)= 1200|29000 * (0.04)= 1160|33000 * (0.04)= 1320 | 3680  |
 
 ***
-## PRINCIPALES DIFICULTADES Y REFLEXION CRITICA EN LA PRACTICA DE LOS CONTENIDOS 
+## PRINCIPALES DIFICULTADES Y REFLEXIÓN CRÍTICA EN LA PRÁCTICA DE LOS CONTENIDOS 
 
 **1. Dificultades:**
-- Confusión en la interpretación del problema
+- Confusión en la interpretación del problema.
 - Dificultades en identificar variables y el uso de sintaxis en el programa C.
 
-**2. Reflexion critica:**
-- Estas difucultades fueron corregidas mediante el analisis de ejercicios prácticos revisados en clase, y la revision de la teoria. Asi mismo, se realizaron diversos ejercicios de práctica para identificar variables y el uso de la sintaxis del programa C.  
+**2. Reflexión crítica:**
+- Estas dificultades fueron corregidas mediante el análisis de ejercicios prácticos revisados en clase, y la revisión de la teoría. Asi mismo, se realizaron diversos ejercicios de práctica para identificar variables y el uso de la sintaxis del programa C.  
 
   
   
