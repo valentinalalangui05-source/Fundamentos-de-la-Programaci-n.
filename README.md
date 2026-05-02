@@ -79,15 +79,15 @@
 
   **ct** = c1 + c2 + c3;
 
-   - *Donde **c** es comisoon, y **v** es vehiculo*
+   - *Donde **c** es comison, y **v** es vehiculo*
 
-- Datos de salioda
+- Datos de salida:
   - comision total(ct)
 
 **3. Diseño del algoritmo: Diagrama de flujo y Pseudocodigo**
 - Pseudocodigo:
-  ~~~
-  Algoritmo Ventas
+~~~
+Algoritmo Ventas
 	
 	//Variables
 	Definir v1, v2, v3 Como Real;
@@ -111,10 +111,12 @@
 	Escribir ("Comision 2 es:"), c2;
 	Escribir ("Comision 3 es:"), c3;
 	Escribir ("Comision total es:"), ct;
-  FinAlgoritmo
-  ~~~
+	
+FinAlgoritmo
+~~~
 
 - Diagrama de flujo:
+  
 ![Imagen](https://github.com/valentinalalangui05-source/Fundamentos-de-la-Programaci-n./blob/main/Ejercicio_Diagrama%20de%20flujo.png?raw=true)
 
 **4. Codificacion: Codigo fuente**
@@ -144,9 +146,21 @@ int main(){
 
 **5. Prueba de escritorio:**
 
+![Imagen](https://github.com/valentinalalangui05-source/Fundamentos-de-la-Programaci-n./blob/main/Prueba%20de%20escritorio.png?raw=true)
 
+| c1                 |          c2        |        c3           | total |
+|--------------------|--------------------|---------------------|-------|
+|30000 * (0.04)= 1200|29000 * (0.04)= 1160|33000 * (0.04)= 1320 | 3680  |
 
+***
+## PRINCIPALES DIFICULTADES Y REFLEXION CRITICA EN LA PRACTICA DE LOS CONTENIDOS 
 
+**1. Dificultades:**
+- Confusión en la interpretación del problema
+- Dificultades en identificar variables y el uso de sintaxis en el programa C.
+
+**2. Reflexion critica:**
+- Estas difucultades fueron corregidas mediante el analisis de ejercicios prácticos revisados en clase, y la revision de la teoria. Asi mismo, se realizaron diversos ejercicios de práctica para identificar variables y el uso de la sintaxis del programa C.  
 
   
   
