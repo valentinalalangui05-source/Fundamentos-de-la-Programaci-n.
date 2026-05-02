@@ -35,15 +35,15 @@
   - 🧐*Lógicos*: Determina si algo es verdadero o falso
 
 - **Pseudocodigo:**
-  - Es utilizado para entender la estructura de un codigo. Se caracteriza por utilizar una sintaxis flexible y un lenguaje natural. Entre las herramientas mas utlizadas para este proposito podemos mencionar a [Pseint](https://pseint.sourceforge.net/).
+  - Es utilizado para entender la estructura de un código. Se caracteriza por utilizar una sintaxis flexible y un lenguaje cercano al natural. Entre las herramientas mas utlizadas para este propósito podemos mencionar a [Pseint](https://pseint.sourceforge.net/).
 
 - **Diagramas de flujo:**
   - Emplea formas para la representación visual del algoritmo.
 
 - **Pruebas de escritorio:**
-  - Mediante la pueba de escritorio podemos verificar si la codificacion de nuestro codigo es correcto.
+  - Mediante la pueba de escritorio podemos verificar si la codificación de nuestro código es correcto.
 
-- **¿Qué es un lenguaje de programacion?**
+- **¿Qué es un lenguaje de programación?**
   - Los lenguajes de programación permiten a los desarrolladores crear software mediante instrucciones que la computadora puede interpretar. Todo lenguaje de computador entiende lenguaje binario, 1 y 0.
     Los lenguajes de programación pueden dividirse en dos categorías:
     - *Lenguajes compilados:*
@@ -53,7 +53,7 @@
       Ejecuta el código línea por línea en tiempo real, por ejemplo: Python, JavaScrip, etc.
 ***
 **2. PROGRAMACION POR BLOQUES**
-- Es un metodo utilizado para desarrollar la logica de programacion, se caracteriza por utilizar piezzas visules. Analogicamente, es como armar un rompecabezas. Entre las herramientas mas utlizadas para este proposito podemos mencionar a [pilas bloques](https://pilasbloques.program.ar/online/#/)
+- Es un método utilizado para desarrollar la lógica de programación, se caracteriza por utilizar piezas visules. Analogicamente, es como armar un rompecabezas. Entre las herramientas más utlizadas para este propósito podemos mencionar a [pilas bloques](https://pilasbloques.program.ar/online/#/)
 
 ![Programacion por bloques](https://github.com/valentinalalangui05-source/Fundamentos-de-la-Programaci-n./blob/main/Programacion%20por%20bloques.png?raw=true.png)
 
@@ -119,7 +119,7 @@ FinAlgoritmo
   
 ![Imagen](https://github.com/valentinalalangui05-source/Fundamentos-de-la-Programaci-n./blob/main/Ejercicio_Diagrama%20de%20flujo.png?raw=true)
 
-**4. Codificacion: Codigo fuente**
+**4. Codificacion: Código fuente**
 ~~~
 #include <stdio.h>
 int main(){
