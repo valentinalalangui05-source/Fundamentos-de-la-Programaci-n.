@@ -112,12 +112,41 @@
 	Escribir ("Comision 3 es:"), c3;
 	Escribir ("Comision total es:"), ct;
   FinAlgoritmo
-~~~
+  ~~~
 
 - Diagrama de flujo:
-![Ejercicio_Diagrama de flujo]()
+![Imagen](https://github.com/valentinalalangui05-source/Fundamentos-de-la-Programaci-n./blob/main/Ejercicio_Diagrama%20de%20flujo.png?raw=true)
 
-       
+**4. Codificacion: Codigo fuente**
+~~~
+#include <stdio.h>
+int main(){
+
+    float v1 = 30000; 
+    float v2 = 29000;
+    float v3 = 33000;
+    float porcentaje = 0.04;
+    float c1, c2, c3, ct; 
+
+    c1 = v1 * porcentaje;
+    c2 = v2 * porcentaje;
+    c3 = v3 * porcentaje;
+    ct = c1 + c2 + c3;
+
+    printf("Comision 1 es: %.1f\n", c1);
+    printf("Comision 2 es: %.1f\n", c2);
+    printf("Comision 3 es: %.1f\n", c3);
+    printf("Comision total es: %.1f\n", ct);
+    
+    return 0; 
+}
+~~~
+
+**5. Prueba de escritorio:**
+
+
+
+
 
   
   
