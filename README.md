@@ -58,7 +58,33 @@
 
 ***
 
-## **EJERCICOS CON ESTRUCTURA SECUENCIAL: LENGUAJE C**
+## **EJERCICIOS CON ESTRUCTURA SECUENCIAL: LENGUAJE C**
+***
+
+**1. Planteamiento del problema:**
+- En una concesionaria de vehículos se realizaron tres ventas de vehículos de alta gama a 3 clientes. Cada vehículo cuesta 30000, 29000 y 33000 usd. El gerente desea saber cuál es porcentaje (comisión) que cada vendedor se llevaría, lo que le pagará a cada uno de ellos (considerando el 4% por cada vendedor) y lo que le pagará en conjunto (total).
+
+**2. Analisis del problema:**
+- Datos de entrada:
+  - Este ejercicio no tiene datos de entrada, ya que nos dan las variables con un valor asignado.
+- Proceso:
+    c1 = v1 * porcentaje;
+    c2 = v2 * porcentaje;
+    c3 = v3 * porcentaje;
+    ct = c1 + c2 + c3;
+  - Donde **c** es comisoon, y **v** es vehiculo
+- Datos de salioda
+  - comision total(ct)
+
+**3. Diseño del algoritmo: Diagrama de flujo y Pseudocodigo**
+![Imagen](.png)
+
+**4. Codificacion**
+![Imagen](.png)
+
+**5. Validacion: Prueba de escritorio**
+![Imagen](.png)
+
 
 -  
     
