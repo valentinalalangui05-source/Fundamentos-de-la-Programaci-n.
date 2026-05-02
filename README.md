@@ -111,22 +111,11 @@
 	Escribir ("Comision 2 es:"), c2;
 	Escribir ("Comision 3 es:"), c3;
 	Escribir ("Comision total es:"), ct;
-	
-FinAlgoritmo
+  FinAlgoritmo
 ~~~
 
-- Diagrama de flujo: 
-![Imagen](.png)
-
-**4. Codificacion**
-![Imagen](.png)
-
-**5. Validacion: Prueba de escritorio**
-![Imagen](.png)
-
-
--  
-    
+- Diagrama de flujo:
+![Ejercicio_Diagrama de flujo]()
 
        
 
