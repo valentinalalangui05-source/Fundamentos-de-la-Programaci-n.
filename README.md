@@ -1,3 +1,4 @@
+
 # **FUNDAMENTOS DE LA PROGRAMACION.**
 ***
 ## **UNIDAD 1**
@@ -67,16 +68,54 @@
 **2. Analisis del problema:**
 - Datos de entrada:
   - Este ejercicio no tiene datos de entrada, ya que nos dan las variables con un valor asignado.
+
 - Proceso:
-    c1 = v1 * porcentaje;
-    c2 = v2 * porcentaje;
-    c3 = v3 * porcentaje;
-    ct = c1 + c2 + c3;
-  - Donde **c** es comisoon, y **v** es vehiculo
+
+  **c1** = v1 * porcentaje;
+
+  **c2** = v2 * porcentaje;
+
+  **c3** = v3 * porcentaje;
+
+  **ct** = c1 + c2 + c3;
+
+   - *Donde **c** es comisoon, y **v** es vehiculo*
+
 - Datos de salioda
   - comision total(ct)
 
 **3. Diseño del algoritmo: Diagrama de flujo y Pseudocodigo**
+- Pseudocodigo:
+  ~~~
+  Algoritmo Ventas
+	
+	//Variables
+	Definir v1, v2, v3 Como Real;
+	Definir c1, c2, c3, ct Como Real;
+	Definir porcentaje como real; 
+	
+	// Asignar valores
+	v1=30000;
+	v2=29000;
+	v3=33000;
+	porcentaje=0.04;
+	
+	// Proceso
+	c1 = v1 * porcentaje;
+    c2 = v2 * porcentaje;
+    c3 = v3 * porcentaje;
+    ct = c1 + c2 + c3;
+	
+	//Datos de salida
+	Escribir ("Comision 1 es:"), c1;
+	Escribir ("Comision 2 es:"), c2;
+	Escribir ("Comision 3 es:"), c3;
+	Escribir ("Comision total es:"), ct;
+	
+FinAlgoritmo
+~~~
+
+- Diagrama de flujo: 
 ![Imagen](.png)
 
 **4. Codificacion**
