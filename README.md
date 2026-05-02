@@ -53,20 +53,14 @@
 ***
 **2. PROGRAMACION POR BLOQUES**
 - Es un metodo utilizado para desarrollar la logica de programacion, se caracteriza por utilizar piezzas visules. Analogicamente, es como armar un rompecabezas. Entre las herramientas mas utlizadas para este proposito podemos mencionar a [pilas bloques](https://pilasbloques.program.ar/online/#/)
-   
 
+![Programacion por bloques](https://github.com/valentinalalangui05-source/Fundamentos-de-la-Programaci-n./blob/main/Programacion%20por%20bloques.png?raw=true.png)
 
+***
 
+## **EJERCICOS CON ESTRUCTURA SECUENCIAL: LENGUAJE C**
 
-
-
-
-
-
-
-      
-
-	  
+-  
     
 
        
