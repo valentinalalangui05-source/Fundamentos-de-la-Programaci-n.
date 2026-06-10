@@ -123,7 +123,7 @@ FinAlgoritmo
 
 ***
 
-## **3. EJERCICIO PRACTICO
+## **3. EJERCICIO PRACTICO**
 #### **1. Planteamiento del problema:**
 
 - Una institución educativa necesita un sistema que permita calcular la nota final de un estudiante en las diferentes asignaturas que cursa durante un periodo académico.
@@ -224,7 +224,8 @@ int main(){
 |   1   |    2   |    10    |    10    |    5     |  8.33  | Aprobado  |
 |   2   |        |    7     |     5    |    4     |  5.33  | Reprobado |
 
-![Imagen]()
+<img src="" width="300">
+
 
 
 
