@@ -1,7 +1,7 @@
 ## **UNIDAD 2**
 ***
 
-## **CONTENIDOS**
+## **🎯CONTENIDOS**
 1. [Estructuras condicionales](#estructuras-condicionales)
    - [Tipos de estructuras condicionales](#tipos-de-estructuras-condicionales)
 2. [Estructuras repetitivas](#estructuras-repetitivas)
@@ -15,7 +15,7 @@
 4. [Principales dificultades y reflexión crítica](principales-dificultades-y-reflexion-critica)
 ***
 
-## **ESTRUCTURAS CONDICIONALES**
+## **🔀ESTRUCTURAS CONDICIONALES**
 ### **Tipos de estructuras condicionales**
 #### **1. Condicional simple:**
 - Permite ejecutar una acción solamente cuando la condición es verdadera.
@@ -124,7 +124,7 @@ FinAlgoritmo
 
 ***
 
-## **EJERCICIO PRACTICO**
+## **💻EJERCICIO PRACTICO**
 #### **1. Planteamiento del problema:**
 
 - Una institución educativa necesita un sistema que permita calcular la nota final de un estudiante en las diferentes asignaturas que cursa durante un periodo académico.
@@ -229,9 +229,9 @@ int main(){
 
 ***
 
-## **PRINCIPALES DIFICULTADES Y REFLEXION CRITICA**
+## **🚧PRINCIPALES DIFICULTADES Y REFLEXION CRITICA**
 ## **1. Principales dificultades**
-- Durante le desarrollo de la unidad, las principales dificultades dentro de los contenidos vistos en clase fueron:
+Durante le desarrollo de la unidad, las principales dificultades dentro de los contenidos vistos en clase fueron:
   - Comprender la lógica de las condiciones, especialmente al determinar cuándo una instrucción debía ejecutarse.
   - Diseñar correctamente los diagramas de flujo, organizando las decisiones y los caminos de ejecución sin generar errores en la lógica.
   - Comprender el funcionamiento de las pruebas de escritorio para evaluar si nuestro codigo se ejecuto de manera correcta.
