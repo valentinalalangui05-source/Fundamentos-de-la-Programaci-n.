@@ -49,7 +49,7 @@ Algoritmo doble
 FinAlgoritmo
 ```
 #### **Diagrama de flujo**
-<img src="" width="300">
+<img src="https://github.com/valentinalalangui05-source/Fundamentos-de-la-Programaci-n./blob/main/imagenes/condicion_doble.jpg?raw=true" width="500">
 
 #### **3. Condicional multiple:**
 - Permite evaluar varias condiciones. 
