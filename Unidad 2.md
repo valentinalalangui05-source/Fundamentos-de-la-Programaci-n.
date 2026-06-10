@@ -115,7 +115,7 @@ Algoritmo for
 FinAlgoritmo
 ```
 #### **Diagrama de flujo**
-<img src="" width="300">
+<img src="https://github.com/valentinalalangui05-source/Fundamentos-de-la-Programaci-n./blob/main/imagenes/ciclo-for.jpg?raw=true" width="300">
 
 
 
