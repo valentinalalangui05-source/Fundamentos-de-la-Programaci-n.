@@ -101,7 +101,7 @@ Algoritmo simple
 FinAlgoritmo
 ```
 #### **Diagrama de flujo**
-<img src="e" width="300">
+<img src="https://github.com/valentinalalangui05-source/Fundamentos-de-la-Programaci-n./blob/main/imagenes/ciclo-do-while.png?raw=true" width="400">
 
 #### **1. Ciclo para(for):**
 - Es adecuado utilizar en un bucle for cuando el desarrollador conoce de antemano la cantidad de iteraciones a ejecuatar.
