@@ -28,7 +28,7 @@ Algoritmo simple
 FinAlgoritmo
 ```
 #### **Pseudocodigo**
-[Imagen]()
+<img src="" width="300">
 
 
 
