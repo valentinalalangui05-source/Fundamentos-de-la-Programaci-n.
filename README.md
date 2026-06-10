@@ -1,8 +1,6 @@
 
 # **FUNDAMENTOS DE LA PROGRAMACION.**
 ***
-## **UNIDAD 1**
-***
 ## DATOS DEL AUTOR
 
 ![Imagen](https://www.unl.edu.ec/sites/default/files/inline-images/unl_0_2.png) 
@@ -19,6 +17,8 @@
 
 **Periódo Académico:** Marzo 2026 - Agosto 2026
 
+***
+## **UNIDAD 1**
 ***
 
 ## CONTENIDOS 
