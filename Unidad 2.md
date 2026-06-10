@@ -80,21 +80,21 @@ FinAlgoritmo
   
 #### **Pseudocodigo**
 ```
-Algoritmo simple
+Algoritmo mientras
 	Mientras (expresion_logica) Hacer
 		secuencia_de_acciones
 	Fin Mientras
 FinAlgoritmo
 ```
 #### **Diagrama de flujo**
-<img src="e" width="300">
+<img src="https://github.com/valentinalalangui05-source/Fundamentos-de-la-Programaci-n./blob/main/imagenes/ciclo-while.jpg?raw=true" width="300">
 
 #### **1. Ciclo hacer...mientras(do...while):**
 - En ocasiones se necesita que el conjunto de sentencias se ejecuten al menos una vez sea cual sea el valor de la expresión o condición evaluada.
   
 #### **Pseudocodigo**
 ```
-Algoritmo simple
+Algoritmo dowhile
 	Hacer
 		secuencia_de_acciones
 	mientras(expresion_logica)
@@ -108,14 +108,14 @@ FinAlgoritmo
   
 #### **Pseudocodigo**
 ```
-Algoritmo simple
+Algoritmo for
 	Para (inicializador) Hasta (condicion) [aumento/decremento] Hacer
 		secuencia_de_acciones
 	Fin Para
 FinAlgoritmo
 ```
 #### **Diagrama de flujo**
-<img src="e" width="300">
+<img src="" width="300">
 
 
 
