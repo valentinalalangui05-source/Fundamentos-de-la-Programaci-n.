@@ -21,8 +21,18 @@
 ## **UNIDAD 1**
 ***
 
-## CONTENIDOS 
+## CONTENIDOS
+1. [ALGORITMO](#algoritmo)
+   - [Tipo de datos](#tipo-de-datos)
+   - [Pseudocódigo](#pseudocódigo)
+   - [Diagrama de flujo](#diagrama-de-flujo)
+   - [Pruebas de escritorio](#pruebas-de-escritorio)
+   - [Lenguaje de programación](#lenguaje-de-programación)
+2. [Programación por bloques](#programación-por-bloques)
+3. [Ejercicios con estructura secuencial: LENGUAJE C](#ejercicios-con-estructura-secuencial-lenguaje-c)
+4. 
 ***
+
 **1. ALGORITMO**
 
 ![Imagen](https://github.com/valentinalalangui05-source/Fundamentos-de-la-Programaci-n./blob/main/Algoritmo.png?raw=true.png)
