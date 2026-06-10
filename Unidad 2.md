@@ -4,11 +4,14 @@
 ## **CONTENIDOS**
 1. [Estructuras condicionales](#estructuras-condicionales)
    - [Tipos de estructuras condicionales](#tipos-de-estructuras-condicionales)
-
 2. [Estructuras repetitivas](#estructuras-repetitivas)
    - [Tipos de estructuras repetitivas](#tipos-de-estructuras-repetitivas)
-   - [Estructura en diagrama de flujo](#estructura-en-diagrama-de-flujo-repetitivo)
-   - [Estructura en pseudocódigo](#estructura-en-pseudocódigo-repetitivo)
+3. [Ejercicio práctico](#ejercicio-practico)
+   - [Planteamiento del problema](planteamiento-del-problema)
+   - [Análisis del problema](analisis-del-problema)
+   - [Diagrama de flujo](diagrama-de-flujo)
+   - [Código fuente](codigo-fuente)
+   - [Validacion del problema](validacion-del-problema)
 ***
 
 ## **ESTRUCTURAS CONDICIONALES**
@@ -71,6 +74,7 @@ FinAlgoritmo
 ```
 #### **Diagrama de flujo**
 <img src="https://github.com/valentinalalangui05-source/Fundamentos-de-la-Programaci-n./blob/main/imagenes/condicion_multiple.jpg?raw=true" width="700">
+
 ***
 
 ## **ESTRUCTURAS REPETITIVAS**
@@ -117,7 +121,84 @@ FinAlgoritmo
 #### **Diagrama de flujo**
 <img src="https://github.com/valentinalalangui05-source/Fundamentos-de-la-Programaci-n./blob/main/imagenes/ciclo-for.jpg?raw=true" width="300">
 
+***
 
+## **3. EJERCICIO PRACTICO
+#### **1. Planteamiento del problema:**
+
+- Una institución educativa necesita un sistema que permita calcular la nota final de un estudiante en las diferentes asignaturas que cursa durante un periodo académico.
+  - El programa solicitará al usuario la cantidad de asignaturas que desea evaluar. Para cada asignatura se ingresarán tres calificaciones obtenidas durante el curso(caliificaciones por unidad).
+  - El sistema realizará el cálculo del promedio final mediante la suma de las tres notas dividida entre tres.
+  - Ademas, el programa contará con validaciones para evitar el ingreso de valores incorrectos, permitiendo únicamente notas dentro del rango establecido de 0 a 10.
+  - Una vez calculado el promedio, el sistema determinará si el estudiante aprueba o reprueba la asignatura, considerando como nota mínima de aprobación un promedio igual o mayor a 7.
+
+#### **2. Análisis del problema:**
+
+#### **3. Diagrama de flujo:**
+![Imagen]()
+#### **4. Código fuente:**
+
+```
+#include <stdio.h>
+int main(){
+
+    float num1, num2, num3, pT;
+    int i, eT;
+
+    do{
+        printf("Ingrese el numero de asignaturas: ");
+        scanf("%d", &eT);
+    }while(eT<=0);
+
+    for(i=1; i<=eT; i++ ){
+        printf("=================================\n");
+        printf("Asigantura %d\n", i);
+        printf("=================================\n");
+
+        do{
+            printf("Ingresar nota 1: ");
+            scanf("%f", &num1);
+
+            if(num1<0 || num1 >10){
+                printf("ERROR\n");
+            }
+        }while(num1<0 || num1 >10);
+
+        do{
+            printf("Ingresar nota 2: ");
+            scanf("%f", &num2);
+
+            if(num2<0 || num2 >10){
+                printf("ERROR\n");
+            }
+        }while(num2<0 || num2 >10);
+
+        do{
+            printf("Ingresar nota 3: ");
+            scanf("%f", &num3);
+
+            if(num3<0 || num3 >10){
+                printf("ERROR\n");
+            }
+        }while(num3<0 || num3 >10);
+
+        pT=(num1+num2+num3)/3;
+        printf("%.2f\n", pT);
+
+        if(pT>=7){
+            printf("Nota aprobada\n");
+        }
+        if(pT<7){
+            printf("Reprobado\n");
+
+        }
+    }
+
+    return 0;   
+}
+```
+
+#### **5. Validacion del problema:**
 
 
 
