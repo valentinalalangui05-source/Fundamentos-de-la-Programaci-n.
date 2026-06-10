@@ -1,4 +1,4 @@
-## **UNIDAD 2**
+# **UNIDAD 2**
 ***
 
 ## **🎯CONTENIDOS**
@@ -78,7 +78,7 @@ FinAlgoritmo
 
 ***
 
-## **ESTRUCTURAS REPETITIVAS**
+## **🔄ESTRUCTURAS REPETITIVAS**
 ### **Tipos de estructuras repetitivas**
 #### **1. Ciclo mientras(while):**
 - Permite repetir un número de lı́neas de código mientras se cumpla una determinada condición.
