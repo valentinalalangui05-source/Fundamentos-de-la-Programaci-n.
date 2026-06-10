@@ -132,10 +132,29 @@ FinAlgoritmo
   - Ademas, el programa contará con validaciones para evitar el ingreso de valores incorrectos, permitiendo únicamente notas dentro del rango establecido de 0 a 10.
   - Una vez calculado el promedio, el sistema determinará si el estudiante aprueba o reprueba la asignatura, considerando como nota mínima de aprobación un promedio igual o mayor a 7.
 
+
 #### **2. Análisis del problema:**
 
+**- Datos de entrada:**
+- Número de asignaturas que se van a calcular.
+- Contador de asignaturas (se genera en el ciclo).
+- Primera nota de la asignatura.
+- Segunda nota de la asignatura.
+- Tercera nota de la asignatura.
+
+**- Proceso:**
+- Valida que el número de asignaturas sea mayor que 0.
+- Valida que las notas ingresadas sean correctas entre 0 y 10:
+- Deben estar dentro del rango permitido.
+- Calcula el promedio: ***pT= num1+num2+num3 /3*** 
+- Compara el promedio minimo para determinar si el estudante aprobo (minimo 7) o reprobo (menor a 7).
+
+**- Datos de salida:**
+- Nota final por cada asigantura y el mensaje de aprobado i reprobado.
+  
+
 #### **3. Diagrama de flujo:**
-![Imagen]()
+![Imagen](https://github.com/valentinalalangui05-source/Fundamentos-de-la-Programaci-n./blob/main/imagenes/Ejercicio-practico.png?raw=true)
 #### **4. Código fuente:**
 
 ```
