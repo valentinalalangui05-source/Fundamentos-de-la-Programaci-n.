@@ -70,7 +70,55 @@ Algoritmo multiple
 FinAlgoritmo
 ```
 #### **Diagrama de flujo**
-<img src="" width="300">
+<img src="https://github.com/valentinalalangui05-source/Fundamentos-de-la-Programaci-n./blob/main/imagenes/condicion_multiple.jpg?raw=true" width="700">
+***
+
+## **ESTRUCTURAS REPETITIVAS**
+### **Tipos de estructuras repetitivas**
+#### **1. Ciclo mientras(while):**
+- Permite repetir un número de lı́neas de código mientras se cumpla una determinada condición.
+  
+#### **Pseudocodigo**
+```
+Algoritmo simple
+	Mientras (expresion_logica) Hacer
+		secuencia_de_acciones
+	Fin Mientras
+FinAlgoritmo
+```
+#### **Diagrama de flujo**
+<img src="e" width="300">
+
+#### **1. Ciclo hacer...mientras(do...while):**
+- En ocasiones se necesita que el conjunto de sentencias se ejecuten al menos una vez sea cual sea el valor de la expresión o condición evaluada.
+  
+#### **Pseudocodigo**
+```
+Algoritmo simple
+	Hacer
+		secuencia_de_acciones
+	mientras(expresion_logica)
+FinAlgoritmo
+```
+#### **Diagrama de flujo**
+<img src="e" width="300">
+
+#### **1. Ciclo para(for):**
+- Es adecuado utilizar en un bucle for cuando el desarrollador conoce de antemano la cantidad de iteraciones a ejecuatar.
+  
+#### **Pseudocodigo**
+```
+Algoritmo simple
+	Para (inicializador) Hasta (condicion) [aumento/decremento] Hacer
+		secuencia_de_acciones
+	Fin Para
+FinAlgoritmo
+```
+#### **Diagrama de flujo**
+<img src="e" width="300">
+
+
+
 
 
 
