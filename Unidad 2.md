@@ -12,6 +12,7 @@
    - [Diagrama de flujo](diagrama-de-flujo)
    - [Código fuente](codigo-fuente)
    - [Validacion del problema](validacion-del-problema)
+4. [Principales dificultades y reflexión crítica](principales-dificultades-y-reflexion-critica)
 ***
 
 ## **ESTRUCTURAS CONDICIONALES**
@@ -123,7 +124,7 @@ FinAlgoritmo
 
 ***
 
-## **3. EJERCICIO PRACTICO**
+## **EJERCICIO PRACTICO**
 #### **1. Planteamiento del problema:**
 
 - Una institución educativa necesita un sistema que permita calcular la nota final de un estudiante en las diferentes asignaturas que cursa durante un periodo académico.
@@ -219,12 +220,30 @@ int main(){
 
 #### **5. Validacion del problema:**
 
+<img src="https://github.com/valentinalalangui05-source/Fundamentos-de-la-Programaci-n./blob/main/imagenes/validacion.png?raw=true" width="500">
+
 | **i** | **eT** | **num1** | **num2** | **num3** | **pT** |
 |-------|--------|----------|----------|----------|--------|
 |   1   |    2   |    10    |    10    |    5     |  8.33  | Aprobado  |
 |   2   |        |    7     |     5    |    4     |  5.33  | Reprobado |
 
-<img src="" width="300">
+***
+
+## **PRINCIPALES DIFICULTADES Y REFLEXION CRITICA**
+## **1. Principales dificultades**
+- Durante le desarrollo de la unidad, las principales dificultades dentro de los contenidos vistos en clase fueron:
+  - Comprender la lógica de las condiciones, especialmente al determinar cuándo una instrucción debía ejecutarse.
+  - Diseñar correctamente los diagramas de flujo, organizando las decisiones y los caminos de ejecución sin generar errores en la lógica.
+  - Comprender el funcionamiento de las pruebas de escritorio para evaluar si nuestro codigo se ejecuto de manera correcta.
+  - Evaluar condiciones 
+## **2. Reflexion critica**
+Las estructuras condicionales y selectivas son herramientas esenciales en la programación, ya que permiten que un algoritmo analice situaciones y tome decisiones de acuerdo a difierentes situaciones. Su importancia no solo radica en aprender una sintaxis o soluciones, sino en desarrollar la capacidad de pensar de manera lógica y estructurada para resolver problemas. Por ello, es fundamentental analizar cada condicion antes de su implementacion ya que el uso incorrecto puede llagar a genarar ineficiencia en el codigo.
+
+>[!NOTE]
+>"La programación no se aprende mirando soluciones, se aprende enfrentando problemas, cada error es una oportunidad para aprender y cada pequeño avance te acerca a dominar algo que antes parecía difícil. Sigue practicando, porque aprender a programar es construir conocimiento línea por línea."
+
+
+
 
 
 
