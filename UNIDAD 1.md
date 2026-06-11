@@ -106,7 +106,7 @@ FinAlgoritmo
 
 - Diagrama de flujo:
   
-![Imagen](https://github.com/valentinalalangui05-source/Fundamentos-de-la-Programaci-n./blob/main/Ejercicio_Diagrama%20de%20flujo.png?raw=true)
+![Imagen](https://github.com/valentinalalangui05-source/Fundamentos-de-la-Programaci-n./blob/main/imagenes/Ejercicio-diagrama-de-flujo.png?raw=true)
 
 **4. Codificación: Código fuente**
 ~~~
