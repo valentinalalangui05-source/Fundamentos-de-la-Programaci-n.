@@ -135,7 +135,7 @@ int main(){
 
 **5. Prueba de escritorio:**
 
-![Imagen](https://github.com/valentinalalangui05-source/Fundamentos-de-la-Programaci-n./blob/main/Prueba%20de%20escritorio.png?raw=true)
+![Imagen](https://github.com/valentinalalangui05-source/Fundamentos-de-la-Programaci-n./blob/main/imagenes/prueba-de-escritorio.png?raw=true)
 
 | c1                 |          c2        |        c3           | total |
 |--------------------|--------------------|---------------------|-------|
