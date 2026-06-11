@@ -16,7 +16,7 @@
 
 **1. ALGORITMO**
 
-![Imagen](https://github.com/valentinalalangui05-source/Fundamentos-de-la-Programaci-n./blob/main/Algoritmo.png?raw=true.png)
+![Imagen](https://github.com/valentinalalangui05-source/Fundamentos-de-la-Programaci-n./blob/main/imagenes/algoritmo.png?raw=true)
 
 - **Tipos de datos:**
   - 🔢*Enteros*: Son valores que no tienen punto decimal, pueden ser negativos o positivos, se incluye el 0
