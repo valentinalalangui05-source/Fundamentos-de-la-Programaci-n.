@@ -1,17 +1,16 @@
 
 # **UNIDAD 1**
 ***
-
 ## CONTENIDOS
 1. [Algoritmo](#algoritmo)
-   - [Tipo de datos](#tipo-de-datos)
-   - [Pseudocódigo](#pseudocódigo)
+   - [Tipos de datos](#tipos-de-datos)
+   - [Pseudocódigo](#pseudocodigo)
    - [Diagrama de flujo](#diagrama-de-flujo)
    - [Pruebas de escritorio](#pruebas-de-escritorio)
-   - [Lenguaje de programación](#lenguaje-de-programación)
-2. [Programación por bloques](#programación-por-bloques)
-3. [Ejercicio practico](#ejercicio-practico)
-4. [Principales dificultades y reflexion critica](#principales-dificultades-y-reflexion-critica)
+   - [Lenguaje de programación](#lenguaje-de-programacion)
+2. [Programación por bloques](#programacion-por-bloques)
+3. [Ejercicio práctico](#ejercicio-practico)
+4. [Principales dificultades y reflexión crítica](#principales-dificultades-y-reflexion-critica)
 ***
 
 ## **ALGORITMO**
@@ -33,15 +32,13 @@
 
 - **Pruebas de escritorio:**
   - Mediante la pueba de escritorio podemos verificar si la codificación de nuestro código es correcto.
->[!NOTE]
->**¿Qué es un lenguaje de programación?**
->Los lenguajes de programación permiten a los desarrolladores crear software mediante instrucciones que la computadora puede interpretar. Todo lenguaje de computador entiende lenguaje binario, 1 y 0.
->Los lenguajes de programación pueden dividirse en dos categorías:
-
->*Lenguajes compilados:*
+    
+- **¿Qué es un lenguaje de programación?**
+  - Los lenguajes de programación permiten a los desarrolladores crear software mediante instrucciones que la computadora puede interpretar. Todo lenguaje de computador entiende lenguaje binario, 1 y 0.
+  - Los lenguajes de programación pueden dividirse en dos categorías:
+    - *Lenguajes compilados:*
       Traduce completamente el código fuente antes de ejecutarlo, generando un archivo ejecutable, por ejemplo: C/c++, Pascal, etc
-
->*Lenguajes interpretados:*
+    - *Lenguajes interpretados:*
       Ejecuta el código línea por línea en tiempo real, por ejemplo: Python, JavaScrip, etc.
 ***
 ## **PROGRAMACIÓN POR BLOQUES**
