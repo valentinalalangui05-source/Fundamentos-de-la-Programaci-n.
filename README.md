@@ -15,7 +15,8 @@
 
 ## ESTRUCTURA DE PORTAFOLIO
 
+| **Nro. Unidad**             | Proceso       | **Temas de Unidad**                |
+|-------------------------------|--------------|-------------------------------------|
 | **[UNIDAD 1](UNIDAD%201.md)** | ✅Completado | **Introducción a la Programación** |
-|-----------------------------|--------------|-------------------------------------|
-| **UNIDAD 2** | ✅Completado | **Estructuras Condicionales y Repetitivas** |
-| **UNIDAD 3** | ❌Proceso |  **Programación modular y Estructuras de datos estáticas básicas** |
+| **[UNIDAD 2](UNIDAD%202.md)** | ✅Completado | **Estructuras Condicionales y Repetitivas** |
+| **[UNIDAD 3](UNIDAD%203.md)** | ❌Proceso    |  **Programación modular y Estructuras de datos estáticas básicas** |
