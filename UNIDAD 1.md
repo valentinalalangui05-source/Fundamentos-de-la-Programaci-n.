@@ -4,7 +4,7 @@
 ## CONTENIDOS
 1. [Algoritmo](#algoritmo)
    - [Tipos de datos](#tipos-de-datos)
-   - [Pseudocódigo](#pseudocodigo)
+   - [Pseudocodigo](#pseudocodigo)
    - [Diagrama de flujo](#diagrama-de-flujo)
    - [Pruebas de escritorio](#pruebas-de-escritorio)
    - [Lenguaje de programación](#lenguaje-de-programacion)
@@ -17,23 +17,23 @@
 
 <img src="https://github.com/valentinalalangui05-source/Fundamentos-de-la-Programaci-n./blob/main/imagenes/algoritmo.png?raw=true" width="900">
 
-- **Tipos de datos:**
+### **Tipos de datos**
   - 🔢*Enteros*: Son valores que no tienen punto decimal, pueden ser negativos o positivos, se incluye el 0
   - 📔*Reales*: Valores que tienen punto decimal, se incluye el 0
   - 🏧*Carácter*: Conformados por un solo carácter, van entre comillas dobles, pueden ser letras, números o símbolos, “x”, “3” etc
   - 🔤*Cadenas*: También conocidos como alfanuméricos, la formación de muchos caracteres forma una cadena
   - 🧐*Lógicos*: Determina si algo es verdadero o falso
 
-- **Pseudocódigo:**
+### **Pseudocodigo**
   - Es utilizado para entender la estructura de un código. Se caracteriza por utilizar una sintaxis flexible y un lenguaje cercano al natural. Entre las herramientas mas utlizadas para este propósito podemos mencionar a [Pseint](https://pseint.sourceforge.net/).
 
-- **Diagramas de flujo:**
+### **Diagrama de flujo**
   - Emplea formas para la representación visual del algoritmo.
 
-- **Pruebas de escritorio:**
+### **Pruebas de escritorio**
   - Mediante la pueba de escritorio podemos verificar si la codificación de nuestro código es correcto.
     
-- **¿Qué es un lenguaje de programación?**
+### **Lenguaje de programacion**
   - Los lenguajes de programación permiten a los desarrolladores crear software mediante instrucciones que la computadora puede interpretar. Todo lenguaje de computador entiende lenguaje binario, 1 y 0.
   - Los lenguajes de programación pueden dividirse en dos categorías:
     - *Lenguajes compilados:*
@@ -41,15 +41,15 @@
     - *Lenguajes interpretados:*
       Ejecuta el código línea por línea en tiempo real, por ejemplo: Python, JavaScrip, etc.
 ***
-## **PROGRAMACIÓN POR BLOQUES**
+
+## **PROGRAMACION POR BLOQUES**
 - Es un método utilizado para desarrollar la lógica de programación, se caracteriza por utilizar piezas visules. Analogicamente, es como armar un rompecabezas. Entre las herramientas más utlizadas para este propósito podemos mencionar a [pilas bloques](https://pilasbloques.program.ar/online/#/)
 
-![Programacion por bloques](https://github.com/valentinalalangui05-source/Fundamentos-de-la-Programaci-n./blob/main/Programacion%20por%20bloques.png?raw=true.png)
+![Programacion por bloques](https://github.com/valentinalalangui05-source/Fundamentos-de-la-Programaci-n./blob/main/imagenes/programacion-por-bloques.png?raw=true)
 
 ***
 
-## **EJERCICIO PRACTICO: LENGUAJE C**
-***
+## **EJERCICIO PRACTICO**
 
 **1. Planteamiento del problema:**
 - En una concesionaria de vehículos se realizaron tres ventas de vehículos de alta gama a 3 clientes. Cada vehículo cuesta 30000, 29000 y 33000 usd. El gerente desea saber cuál es porcentaje (comisión) que cada vendedor se llevaría, lo que le pagará a cada uno de ellos (considerando el 4% por cada vendedor) y lo que le pagará en conjunto (total).
@@ -142,7 +142,7 @@ int main(){
 |30000 * (0.04)= 1200|29000 * (0.04)= 1160|33000 * (0.04)= 1320 | 3680  |
 
 ***
-## **PRINCIPALES DIFICULTADES Y REFLEXIÓN CRÍTICA** 
+## **PRINCIPALES DIFICULTADES Y REFLEXION CRITICA** 
 
 **1. Dificultades:**
 - Confusión en la interpretación del problema.
