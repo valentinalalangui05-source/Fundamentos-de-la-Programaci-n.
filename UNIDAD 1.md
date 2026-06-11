@@ -151,7 +151,9 @@ int main(){
 - Dificultades en identificar variables y el uso de sintaxis en el programa C.
 
 **2. Reflexión crítica:**
-- Estas dificultades fueron corregidas mediante el análisis de ejercicios prácticos revisados en clase, y la revisión de la teoría. Asi mismo, se realizaron diversos ejercicios de práctica para identificar variables y el uso de la sintaxis del programa C.  
+- Estas dificultades fueron corregidas mediante el análisis de ejercicios prácticos revisados en clase, y la revisión de la teoría. Asi mismo, se realizaron diversos ejercicios de práctica para identificar variables y el uso de la sintaxis del programa C.
+
+[Regresar a inicio]()
 
   
   
