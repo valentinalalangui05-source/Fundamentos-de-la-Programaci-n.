@@ -3,20 +3,20 @@
 ***
 
 ## CONTENIDOS
-1. [ALGORITMO](#algoritmo)
+1. [Algoritmo](#algoritmo)
    - [Tipo de datos](#tipo-de-datos)
    - [Pseudocódigo](#pseudocódigo)
    - [Diagrama de flujo](#diagrama-de-flujo)
    - [Pruebas de escritorio](#pruebas-de-escritorio)
    - [Lenguaje de programación](#lenguaje-de-programación)
 2. [Programación por bloques](#programación-por-bloques)
-3. [Ejercicios con estructura secuencial: LENGUAJE C](#ejercicios-con-estructura-secuencial-lenguaje-c)
-4. 
+3. [Ejercicio practico](#ejercicio-practico)
+4. [Principales dificultades y reflexion critica](#principales-dificultades-y-reflexion-critica)
 ***
 
-**1. ALGORITMO**
+## **ALGORITMO**
 
-![Imagen](https://github.com/valentinalalangui05-source/Fundamentos-de-la-Programaci-n./blob/main/imagenes/algoritmo.png?raw=true)
+<img src="https://github.com/valentinalalangui05-source/Fundamentos-de-la-Programaci-n./blob/main/imagenes/algoritmo.png?raw=true" width="900">
 
 - **Tipos de datos:**
   - 🔢*Enteros*: Son valores que no tienen punto decimal, pueden ser negativos o positivos, se incluye el 0
@@ -33,24 +33,25 @@
 
 - **Pruebas de escritorio:**
   - Mediante la pueba de escritorio podemos verificar si la codificación de nuestro código es correcto.
+>[!NOTE]
+>**¿Qué es un lenguaje de programación?**
+>Los lenguajes de programación permiten a los desarrolladores crear software mediante instrucciones que la computadora puede interpretar. Todo lenguaje de computador entiende lenguaje binario, 1 y 0.
+>Los lenguajes de programación pueden dividirse en dos categorías:
 
-- **¿Qué es un lenguaje de programación?**
-  - Los lenguajes de programación permiten a los desarrolladores crear software mediante instrucciones que la computadora puede interpretar. Todo lenguaje de computador entiende lenguaje binario, 1 y 0.
-    Los lenguajes de programación pueden dividirse en dos categorías:
-    - *Lenguajes compilados:*
+>*Lenguajes compilados:*
       Traduce completamente el código fuente antes de ejecutarlo, generando un archivo ejecutable, por ejemplo: C/c++, Pascal, etc
-      
-    - *Lenguajes interpretados:*
+
+>*Lenguajes interpretados:*
       Ejecuta el código línea por línea en tiempo real, por ejemplo: Python, JavaScrip, etc.
 ***
-**2. PROGRAMACIÓN POR BLOQUES**
+## **PROGRAMACIÓN POR BLOQUES**
 - Es un método utilizado para desarrollar la lógica de programación, se caracteriza por utilizar piezas visules. Analogicamente, es como armar un rompecabezas. Entre las herramientas más utlizadas para este propósito podemos mencionar a [pilas bloques](https://pilasbloques.program.ar/online/#/)
 
 ![Programacion por bloques](https://github.com/valentinalalangui05-source/Fundamentos-de-la-Programaci-n./blob/main/Programacion%20por%20bloques.png?raw=true.png)
 
 ***
 
-## **EJERCICIOS CON ESTRUCTURA SECUENCIAL: LENGUAJE C**
+## **EJERCICIO PRACTICO: LENGUAJE C**
 ***
 
 **1. Planteamiento del problema:**
@@ -144,7 +145,7 @@ int main(){
 |30000 * (0.04)= 1200|29000 * (0.04)= 1160|33000 * (0.04)= 1320 | 3680  |
 
 ***
-## PRINCIPALES DIFICULTADES Y REFLEXIÓN CRÍTICA EN LA PRÁCTICA DE LOS CONTENIDOS 
+## **PRINCIPALES DIFICULTADES Y REFLEXIÓN CRÍTICA** 
 
 **1. Dificultades:**
 - Confusión en la interpretación del problema.
