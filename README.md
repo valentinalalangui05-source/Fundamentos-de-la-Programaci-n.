@@ -25,4 +25,13 @@
 |-------------------------------|--------------|-------------------------------------|
 | **[UNIDAD 1](UNIDAD%201.md)** | ✅Completado | **📌Introducción a la Programación** |
 | **[UNIDAD 2](UNIDAD%202.md)** | ✅Completado | **📌Estructuras Condicionales y Repetitivas** |
-| **[UNIDAD 3](UNIDAD%203.md)** | ❌Incompleto    |  **📌Programación modular y Estructuras de datos estáticas básicas** |
+| **[UNIDAD 3](UNIDAD%203.md)** | ✅Completado |  **📌Programación modular y Estructuras de datos estáticas básicas** |
+
+## ⚙️BIBLIOGRAFIA
+
+| **Nro. Unidad**             |        | **Temas de Unidad**                |
+|-------------------------------|--------------|-------------------------------------|
+| **[UNIDAD 1]** |  | **📌Introducción a la Programación** |
+| **[UNIDAD 2]**|  | **📌Estructuras Condicionales y Repetitivas** |
+| **[UNIDAD 3]** |    |  **📌Programación modular y Estructuras de datos estáticas básicas** |
+
