@@ -34,13 +34,6 @@ La **modularidad** consiste en dividir un programa en pequeñas partes llamadas 
 
 ***
 
-### Diagrama
-
-> [!NOTA]
-> Como programadores, es fundamental realizar un análisis visual antes de escribir código, ya que nos permite organizar nuestras ideas, comprender mejor el problema y tener una visión clara de la solución que vamos a implementar.
-
-***
-
 ## Ejemplo
 
 ```
@@ -171,7 +164,7 @@ cubo = [
 ```
 ---
 
-# 📝 Ejercicio Rápido
+# 📝 Ejercicio Practico 
 
 ¿Puedes adivinar el resultado?
 
