@@ -267,13 +267,6 @@ Durante el aprendizaje, uno de los mayores desafíos es comprender cómo se comp
 
 ---
 
-# 🎯 Conclusiones
-
-- ✅ La modularidad divide problemas grandes en soluciones pequeñas.
-- ✅ Las funciones favorecen la reutilización del código.
-- ✅ El paso por valor y por referencia determina cómo se modifican los datos.
-- ✅ Los arreglos permiten organizar información de forma eficiente.
-- ✅ Dominar estos conceptos facilita el aprendizaje de estructuras de datos y programación orientada a objetos.
 
 ⬅️[Volver a inicio](README.md)
 
