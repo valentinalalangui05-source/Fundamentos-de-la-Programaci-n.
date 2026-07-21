@@ -163,7 +163,7 @@ cubo = [
 ```
 ---
 
-# 📝 Ejercicio Practico 
+## 📝 Ejercicio Practico 
 
 **Contextualizacion:** 
 Una empresa desea calcular el salario semanal de sus empleados. El programa debe utilizar funciones para:
