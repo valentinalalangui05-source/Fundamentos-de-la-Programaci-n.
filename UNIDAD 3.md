@@ -166,17 +166,74 @@ cubo = [
 
 # 📝 Ejercicio Practico 
 
-¿Puedes adivinar el resultado?
+**Contextualizacion:** 
+Una empresa desea calcular el salario semanal de sus empleados. El programa debe utilizar funciones para:
+
+- Leer el nombre del empleado.
+- Leer las horas trabajadas.
+- Leer el pago por hora.
+- Calcular el salario.
+- Mostrar toda la información.
+
+Condición:
+- Si el empleado trabaja más de 40 horas, las horas adicionales se pagan al 150% del valor de la hora normal.
 
 ```
-lista = [1,2]
+#include <stdio.h>
 
-def cambiar(x):
-    x.append(3)
+void leerDatos(char nombre[], float *horas, float *pagoHora);
+float calcularSalario(float horas, float pagoHora);
+void mostrarDatos(char nombre[], float horas, float pagoHora, float salario);
 
-cambiar(lista)
+int main()
+{
+    char nombre[30];
+    float horas, pagoHora, salario;
 
-print(lista)
+    leerDatos(nombre, &horas, &pagoHora);
+
+    salario = calcularSalario(horas, pagoHora);
+
+    mostrarDatos(nombre, horas, pagoHora, salario);
+
+    return 0;
+}
+
+// Leer datos
+void leerDatos(char nombre[], float *horas, float *pagoHora)
+{
+    printf("Nombre del empleado: ");
+    scanf("%s", nombre);
+
+    printf("Horas trabajadas: ");
+    scanf("%f", horas);
+
+    printf("Pago por hora: ");
+    scanf("%f", pagoHora);
+}
+
+// Calcular salario
+float calcularSalario(float horas, float pagoHora)
+{
+    float salario;
+
+    if(horas <= 40)
+        salario = horas * pagoHora;
+    else
+        salario = (40 * pagoHora) + ((horas - 40) * pagoHora * 1.5);
+
+    return salario;
+}
+
+// Mostrar resultados
+void mostrarDatos(char nombre[], float horas, float pagoHora, float salario)
+{
+    printf("\n===== REPORTE =====\n");
+    printf("Empleado: %s\n", nombre);
+    printf("Horas trabajadas: %.2f\n", horas);
+    printf("Pago por hora: $%.2f\n", pagoHora);
+    printf("Salario total: $%.2f\n", salario);
+}
 ```
 
 <details>
@@ -184,7 +241,7 @@ print(lista)
 <summary>✅ Ver respuesta</summary>
 
 ```
-[1,2,3]
+
 ```
 
 Porque las listas son mutables.
