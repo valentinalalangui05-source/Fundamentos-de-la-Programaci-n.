@@ -241,7 +241,7 @@ void mostrarDatos(char nombre[], float horas, float pagoHora, float salario)
 <summary>✅ Ver respuesta</summary>
 
 ```
-
+<img src=" ppppp" width="300">
 ```
 
 Porque las listas son mutables.
