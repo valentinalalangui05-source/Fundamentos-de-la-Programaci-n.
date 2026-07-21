@@ -37,12 +37,22 @@ La **modularidad** consiste en dividir un programa en pequeñas partes llamadas 
 ### Ejemplo
 
 ```
-nombre = input("Ingresa tu nombre")
+#include <stdio.h>
 
-def saludar(nombre):
-    print("Hola", nombre)
+void saludar(char nombre[]) {
+    printf("Hola %s\n", nombre);
+}
 
-saludar(nombre)
+int main() {
+    char nombre[50];
+
+    printf("Ingresa tu nombre: ");
+    scanf("%49s", nombre);
+
+    saludar(nombre);
+
+    return 0;
+}
 
 ```
 
@@ -70,13 +80,22 @@ La función trabaja con una **copia** del dato, es decir, se envía el contenido
 ### Código
 
 ```
-x = 20
-def sumar(numero):
-    numero += 10
-    print(numero)
+#include <stdio.h>
 
-sumar(x)
-print(x)
+void sumar(int numero){
+    numero += 10;
+    printf("%d\n", numero);
+}
+
+int main(){
+    int x = 20;
+
+    sumar(x);
+
+    printf("%d\n", x);
+
+    return 0;
+}
 ```
 
 ### Resultado
@@ -95,7 +114,37 @@ Se envía la dirección de memoria de la variable es decir si dentro de la funci
 > En Python, los objetos **mutables** (como las listas y los diccionarios) pueden modificarse dentro de una función, y esos cambios se reflejan fuera de ella. En cambio, los objetos **inmutables** (como los enteros, las cadenas y las tuplas) no pueden modificarse; cualquier cambio dentro de la función crea un nuevo objeto, por lo que la variable original permanece sin cambios.
 
 ### Código
+- Programa C
+  
+```
 
+#include <stdio.h>
+
+void agregar(int lista[], int *tam)
+{
+    lista[*tam] = 50;
+    (*tam)++;
+}
+
+int main()
+{
+    int datos[10] = {10, 20, 30};
+    int tamaño = 3;
+
+    agregar(datos, &tamaño);
+
+    printf("Datos: ");
+
+    for(int i = 0; i < tamaño; i++)
+    {
+        printf("%d ", datos[i]);
+    }
+
+    return 0;
+}
+
+```
+- Python
 ```
 datos = [10,20,30]
 
@@ -120,8 +169,6 @@ print(datos)
 
 Un arreglo es una estructura que permite almacenar varios datos bajo una misma variable.
 
-En Python normalmente se utilizan las **listas**.
-
 ```
 numeros = [5,10,15,20]
 ```
@@ -139,7 +186,7 @@ colores = ["Rojo","Azul","Verde"]
 
 ### Arreglo Bidimensional
 
-```python
+```
 matriz = [
     [1,2,3],
     [4,5,6]
@@ -163,7 +210,7 @@ cubo = [
 ```
 ---
 
-## 📝 Ejercicio Practico 
+## 📝 Ejercicio Practico: Funciones 
 
 **Contextualizacion:** 
 Una empresa desea calcular el salario semanal de sus empleados. El programa debe utilizar funciones para:
@@ -245,6 +292,102 @@ void mostrarDatos(char nombre[], float horas, float pagoHora, float salario)
 </p>
 
 </details>
+
+---
+## 📝 Ejercicio Practico: Arreglos
+
+### 1. Arreglo Unidimensional (1D)
+
+- Guarda las edades de cinco personas.
+
+```c
+#include <stdio.h>
+
+int main() {
+    int edades[5] = {18, 20, 22, 19, 21};
+
+    printf("Edades:\n");
+
+    for (int i = 0; i < 5; i++) {
+        printf("%d\n", edades[i]);
+    }
+
+    return 0;
+}
+```
+
+---
+
+### 2. Arreglo Bidimensional (2D)
+
+- Guarda las ventas de tres días y cuatro productos.
+
+```c
+#include <stdio.h>
+
+int main() {
+    int ventas[3][4] = {
+        {10, 15, 12, 20},
+        {8, 18, 14, 16},
+        {11, 13, 17, 19}
+    };
+
+    printf("Ventas:\n");
+
+    for (int i = 0; i < 3; i++) {
+        printf("Día %d: ", i + 1);
+
+        for (int j = 0; j < 4; j++) {
+            printf("%d ", ventas[i][j]);
+        }
+
+        printf("\n");
+    }
+
+    return 0;
+}
+```
+
+---
+
+### 3. Arreglo Tridimensional (3D)
+
+- Guarda la temperatura de dos ciudades, dos días y tres horarios.
+
+```c
+#include <stdio.h>
+
+int main() {
+    int temperatura[2][2][3] = {
+        {
+            {20, 24, 18},
+            {21, 25, 19}
+        },
+        {
+            {28, 31, 26},
+            {29, 32, 27}
+        }
+    };
+
+    for (int ciudad = 0; ciudad < 2; ciudad++) {
+        printf("Ciudad %d\n", ciudad + 1);
+
+        for (int dia = 0; dia < 2; dia++) {
+            printf(" Día %d: ", dia + 1);
+
+            for (int hora = 0; hora < 3; hora++) {
+                printf("%d ", temperatura[ciudad][dia][hora]);
+            }
+
+            printf("\n");
+        }
+
+        printf("\n");
+    }
+
+    return 0;
+}
+```
 
 ---
 
