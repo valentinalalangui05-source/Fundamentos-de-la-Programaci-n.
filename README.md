@@ -29,16 +29,16 @@
 
 ***
 
-## ⚙️BIBLIOGRAFIA
-| **Nombre del artículo/libro** | **Bibliografía (APA 7.ª edición)** |
-|--------------------------------|-------------------------------------|
-| **Programando en C desde la práctica: Problemas resueltos** | Guerra Salazar, J. E., Ramos Valencia, M. V., & Vallejo Vallejo, G. E. (2023). *Programando en C desde la práctica: Problemas resueltos* (1.ª ed.). Puerto Madero Editorial Académica. https://puertomaderoeditorial.com.ar/index.php/pmea/es/catalog/view/36/110/195 |
-| **Fundamentos de programación: PYTHON** | Toro Bonilla, M. (2022). *Fundamentos de programación: PYTHON*. Editorial Universidad de Sevilla (Colección Manuales de Informática del Instituto de Ingeniería Informática, n.º 2). https://doi.org/10.12795/9788447223602 |
-| **Programación modular y estructuras de datos estáticas básicas** | Martínez Rincón, J. A. (2020). Programación modular y estructuras de datos estáticas básicas. Universidad Autónoma del Estado de México. https://ri.uaemex.mx/bitstream/handle/20.500.11799/104224/secme-10525_1.pdf?sequence=1 |
+## ⚙️ BIBLIOGRAFÍA
 
+| **Nombre del artículo/libro** | **Bibliografía (IEEE)** |
+|--------------------------------|--------------------------|
+| **Programando en C desde la práctica: Problemas resueltos** | **[1]** J. E. Guerra Salazar, M. V. Ramos Valencia y G. E. Vallejo Vallejo, *Programando en C desde la práctica: Problemas resueltos*, 1.ª ed. Buenos Aires, Argentina: Puerto Madero Editorial Académica, 2023. [En línea]. Disponible en: https://puertomaderoeditorial.com.ar/index.php/pmea/es/catalog/view/36/110/195 |
+| **Fundamentos de programación: PYTHON** | **[2]** M. Toro Bonilla, *Fundamentos de programación: PYTHON*. Sevilla, España: Editorial Universidad de Sevilla, 2022. [En línea]. Disponible en: https://doi.org/10.12795/9788447223602 |
+| **Programación modular y estructuras de datos estáticas básicas** | **[3]** J. A. Martínez Rincón, *Programación modular y estructuras de datos estáticas básicas*. Toluca, México: Universidad Autónoma del Estado de México, 2020. [En línea]. Disponible en: https://ri.uaemex.mx/bitstream/handle/20.500.11799/104224/secme-10525_1.pdf?sequence=1 |
 ***
 
-## 📝 CONCLUSIONES
+## 📝 CONCLUSIONES GENERALES
 
 ### 📌 Unidad 1: Introducción a la Programación
 > **Nota:** Esta unidad me permitió comprender que la programación no consiste únicamente en escribir código, sino en aprender a analizar problemas y plantear soluciones mediante algoritmos. Los diagramas de flujo y el pseudocódigo fueron herramientas fundamentales para desarrollar el pensamiento lógico antes de programar.
