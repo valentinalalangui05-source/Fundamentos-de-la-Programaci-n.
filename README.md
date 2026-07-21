@@ -28,10 +28,8 @@
 | **[UNIDAD 3](UNIDAD%203.md)** | ✅Completado |  **📌Programación modular y Estructuras de datos estáticas básicas** |
 
 ## ⚙️BIBLIOGRAFIA
-
-| **Nro. Unidad**             |        | **Temas de Unidad**                |
-|-------------------------------|--------------|-------------------------------------|
-| **[UNIDAD 1]** |  | **📌Introducción a la Programación** |
-| **[UNIDAD 2]**|  | **📌Estructuras Condicionales y Repetitivas** |
-| **[UNIDAD 3]** |    |  **📌Programación modular y Estructuras de datos estáticas básicas** |
-
+| **Nombre del artículo/libro** | **Bibliografía (APA 7.ª edición)** |
+|--------------------------------|-------------------------------------|
+| **Programando en C desde la práctica: Problemas resueltos** | Guerra Salazar, J. E., Ramos Valencia, M. V., & Vallejo Vallejo, G. E. (2023). *Programando en C desde la práctica: Problemas resueltos* (1.ª ed.). Puerto Madero Editorial Académica. https://puertomaderoeditorial.com.ar/index.php/pmea/es/catalog/view/36/110/195 |
+| **Fundamentos de programación: PYTHON** | Toro Bonilla, M. (2022). *Fundamentos de programación: PYTHON*. Editorial Universidad de Sevilla (Colección Manuales de Informática del Instituto de Ingeniería Informática, n.º 2). https://doi.org/10.12795/9788447223602 |
+| **Programación modular y estructuras de datos estáticas básicas** | Martínez Rincón, J. A. (2020). Programación modular y estructuras de datos estáticas básicas. Universidad Autónoma del Estado de México. https://ri.uaemex.mx/bitstream/handle/20.500.11799/104224/secme-10525_1.pdf?sequence=1 |
