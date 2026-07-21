@@ -246,7 +246,8 @@ Las estructuras condicionales y selectivas son herramientas esenciales en la pro
 ⬅️[Volver a inicio](README.md)
 
 ***
-⬅️[Ir a unidad 3](UNIDAD%203.md)
+
+➡️[Ir a unidad 3](UNIDAD%203.md)
 
 
 
