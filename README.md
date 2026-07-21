@@ -53,6 +53,18 @@
 ### 📌 Unidad 3: Programación Modular y Estructuras de Datos Estáticas Básicas
 > **Nota:** Comprendí la importancia de dividir un programa en funciones para mejorar su organización y facilitar su mantenimiento. Además, el uso de arreglos unidimensionales y bidimensionales me permitió entender cómo almacenar y manipular conjuntos de datos de manera ordenada y eficiente.
 
+***
+
+## 🤖 Declaración de uso de Inteligencia Artificial
+
+Durante la elaboración de este portafolio académico se utilizó Inteligencia Artificial (ChatGPT, Claude) como una herramienta de apoyo para las siguientes actividades:
+
+- 📚 **Aprendizaje de GitHub y Markdown:** Se utilizó para comprender la sintaxis de Markdown, la creación de tablas, listas, secciones desplegables (`<details>`), enlaces internos y la organización de un repositorio en GitHub.
+- ✍️ **Mejora de la redacción:** Se empleó para revisar y mejorar la claridad, coherencia y presentación de algunos textos.
+- 📖 **Apoyo en la organización del contenido:** Se utilizó para estructurar la información del repositorio, proponer formatos de presentación y facilitar la documentación de las actividades desarrolladas durante el curso.
+
+> **Nota:** La Inteligencia Artificial fue utilizada únicamente como una herramienta de apoyo para el aprendizaje y la documentación. La comprensión de los contenidos, el desarrollo de los ejercicios, la revisión del código y la validación de los resultados fueron responsabilidad del autor de este portafolio.
+
 
 
 
