@@ -1,6 +1,6 @@
 # 📚 Unidad 3
 
-> **Objetivo:** Comprender qué es la modularidad, cómo funcionan los parámetros en las funciones y cómo utilizar los diferentes tipos de arreglos en Python.
+> **Objetivo:** Comprender qué es la modularidad, cómo funcionan los parámetros en las funciones y cómo utilizar los diferentes tipos de arreglos en Python/Progrma C.
 
 ***
 
