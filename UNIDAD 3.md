@@ -34,7 +34,7 @@ La **modularidad** consiste en dividir un programa en pequeñas partes llamadas 
 
 ***
 
-## Ejemplo
+### Ejemplo
 
 ```
 nombre = input("Ingresa tu nombre")
@@ -63,7 +63,7 @@ Existen dos formas muy utilizadas para entender este proceso.
 
 ---
 
-# 2.1 Pase por Valor
+## 2.1 Pase por Valor
 
 La función trabaja con una **copia** del dato, es decir, se envía el contenido de la variable, peor la varible no se altera. 
 
@@ -88,11 +88,12 @@ print(x)
 ---
 
 
-# 2.2 Pase por Referencia
+## 2.2 Pase por Referencia
 
 Se envía la dirección de memoria de la variable es decir si dentro de la función se realiza algún cambio pues la variable fuera de la función sufrirá este cambio.
 > [!NOTE]
 > En Python, los objetos **mutables** (como las listas y los diccionarios) pueden modificarse dentro de una función, y esos cambios se reflejan fuera de ella. En cambio, los objetos **inmutables** (como los enteros, las cadenas y las tuplas) no pueden modificarse; cualquier cambio dentro de la función crea un nuevo objeto, por lo que la variable original permanece sin cambios.
+
 ### Código
 
 ```
@@ -113,9 +114,9 @@ print(datos)
 
 ***
 
-# 3. Arreglos
+## 3. Arreglos
 
-## ¿Qué son?
+### ¿Qué son?
 
 Un arreglo es una estructura que permite almacenar varios datos bajo una misma variable.
 
@@ -127,16 +128,16 @@ numeros = [5,10,15,20]
 
 ***
 
-# 4. Tipos de Arreglos
+## 4. Tipos de Arreglos
 
-## 🔹 Arreglo Unidimensional
+### Arreglo Unidimensional
 
 ```
 colores = ["Rojo","Azul","Verde"]
 ```
 ---
 
-## 🔹 Arreglo Bidimensional
+### Arreglo Bidimensional
 
 ```python
 matriz = [
@@ -146,7 +147,7 @@ matriz = [
 ```
 ---
 
-## 🔹 Arreglo Tridimensional
+### Arreglo Tridimensional
 
 ```
 cubo = [
