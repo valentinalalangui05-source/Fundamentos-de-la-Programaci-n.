@@ -91,10 +91,8 @@ print(x)
 # 2.2 Pase por Referencia
 
 Se envía la dirección de memoria de la variable es decir si dentro de la función se realiza algún cambio pues la variable fuera de la función sufrirá este cambio.
-
-> [!NOTA]
-> Si el objeto es mutable (como una lista o un diccionario), sus cambios pueden verse fuera de la función; si es inmutable (como un entero, una cadena o una tupla), las modificaciones dentro de la función no afectan a la variable original.
-
+> [!NOTE]
+> En Python, los objetos **mutables** (como las listas y los diccionarios) pueden modificarse dentro de una función, y esos cambios se reflejan fuera de ella. En cambio, los objetos **inmutables** (como los enteros, las cadenas y las tuplas) no pueden modificarse; cualquier cambio dentro de la función crea un nuevo objeto, por lo que la variable original permanece sin cambios.
 ### Código
 
 ```
